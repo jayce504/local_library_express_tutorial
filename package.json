@@ -1,0 +1,21 @@
+{
+  "name": "express-locallibrary-tutorial",
+  "version": "1.0.0",
+  "engines": {
+    "node": "9.10.0"
+  },
+  "private": true,
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "mongoose": "^5.0.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "devstart": "nodemon ./bin/www"
+  },
+  "author": "",
+  "license": "ISC"
+}
